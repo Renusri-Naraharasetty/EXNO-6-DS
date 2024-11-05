@@ -1,7 +1,8 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
-## Name: Priyanka K
-## Reg. no: 212223230162
+## Name: Renusri Naraharashetty
+## Reg. no: 212223240139
+
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
