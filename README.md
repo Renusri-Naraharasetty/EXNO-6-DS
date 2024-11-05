@@ -19,8 +19,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-Name: Alan Samuel Vedanayagam
-Reg. no: 212223040012
+Name: Priyanka K
+Reg. no: 212223230162
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
