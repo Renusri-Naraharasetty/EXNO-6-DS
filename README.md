@@ -1,5 +1,7 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
+## Name: Priyanka K
+## Reg. no: 212223230162
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
@@ -19,9 +21,6 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-Name: Priyanka K
-
-Reg. no: 212223230162
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
